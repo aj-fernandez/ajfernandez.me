@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Agustín Fernández
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Some labs, ideas and things I want to learn
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/23746244?s=400&u=4e31feb7e850129b7c312097f58a08593b3a7c45&v=4
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/aj-fernandez
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/agust%C3%ADn-fernandez-84594a175/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
